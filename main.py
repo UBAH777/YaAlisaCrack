@@ -1,4 +1,4 @@
-%pdb off
+#pdb off
 from scipy.fft import rfft, rfftfreq
 import matplotlib.pyplot as plt
 import numpy as np
